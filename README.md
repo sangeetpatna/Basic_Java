@@ -1,1 +1,1 @@
-# This contains basic Java programs.
+# This contains basic programs of Java.
